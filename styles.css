@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Montserrat:wght@300&family=Roboto:wght@900&display=swap');
+
+body{
+    font-family: 'Alfa Slab One', cursive;
+    font-family: 'Montserrat', sans-serif;  
+}
+.content{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    
+}
+.top{
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+.above{
+    
+    margin-right: 3.3cm;
+    padding: 0px;
+}
+ .addlist{
+margin-top:  70px ;
+margin-left: 3.3cm;
+padding: 0px;
+}
+.content h2{
+    color: red;
+    margin-bottom: 4px;
+    padding-bottom: 4px;
+    /* border-bottom: 2.9px solid #888;
+    padding-bottom: 3px;
+    position: relative;
+    left: 10px; */
+}
+
+.fas{
+    color: red;
+}
+
+/* #icontext{
+    position:absolute;
+    top: 81.5px;
+    left: 850px;
+} */
+
+.heading{
+    margin-bottom: 20px;
+    font-size: 4vw;
+} 
+#addList{
+   color: #888;
+    font-size: 3vw;
+}
+
+.box{
+    margin:auto 3vw ;
+    border: 2px solid red;
+    border-radius: 12px;
+    box-shadow: 4px 6px 10px gray,-4px -6px 10px white; 
+    width: 250px;
+    text-align: right;
+    height: 300px;
+    width: 200px;
+    
+}
+.box h2{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
